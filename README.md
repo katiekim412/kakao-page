@@ -40,15 +40,11 @@
 
 ---
 
-## 📸 실행 화면 (GIF 추천)
-*프로젝트의 동적인 특징을 잘 보여주기 위해, 아래 기능들을 **GIF 이미지**로 캡처하여 첨부하는 것을 적극 추천합니다.*
+## 📸 실행 화면
 
 - **스크롤에 따른 텍스트 및 아이콘 스타일 변경**
-  ![gif-of-text-highlight-scroll](https://placehold.co/600x400?text=텍스트+하이라이팅+GIF)
 - **스크롤 시 산타 이미지의 움직임과 회전 애니메이션**
-  ![gif-of-santa-animation](https://placehold.co/600x400?text=이미지+애니메이션+GIF)
 - **스크롤을 통한 비디오 재생 및 고정 요소 페이드인 효과**
-  ![gif-of-video-scroll-control](https://placehold.co/600x400?text=비디오+컨트롤+GIF)
 
 ---
 
